@@ -1,0 +1,23 @@
+.table{
+width: 775px; 
+text-align: center; 
+border-style: solid; 
+border-color: #8da2b3;
+color: #543d41;
+}
+
+.th{
+
+text-align: center; 
+border-style: solid; 
+border-color: #543d41;
+color:  #543d41;
+}
+
+.td{
+text-align: center; 
+border-style: solid; 
+border-color: #83615e;
+color: blue;
+}
+
